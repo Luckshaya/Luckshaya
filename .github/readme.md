@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://certificate.codingninjas.com/view/0abc7ee13cfb13bf&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc0MmViMzk4c3ZieGpvNHMxNjZxMXhzMWVyb29wZDF4eXhjN3ZoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jakQnxhPwrbOdEZDul/giphy.gif"  />
 
 ###
