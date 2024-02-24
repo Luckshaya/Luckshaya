@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Luckshaya/Luckshaya/output/snake.svg" alt="Snake animation" />
+<img src="https://certificate.codingninjas.com/view/0abc7ee13cfb13bf" alt="Data Analytics" />
 
 ###
