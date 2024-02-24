@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://certificate.codingninjas.com/view/0abc7ee13cfb13bf" alt="Data Analytics" />
+<img src="https://certificate.codingninjas.com/view/0abc7ee13cfb13bf" alt="https://certificate.codingninjas.com/view/0abc7ee13cfb13bf" />
 
 ###
