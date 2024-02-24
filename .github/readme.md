@@ -1,4 +1,4 @@
-<h2 align="left">Salut 👋! My name is Luckshaya and I'm a  Data Analyst</h2>
+<h2 align="left">Salut 👋! My name is Luckshaya and I'm Certified Data Analyst</h2>
 
 ###
 
