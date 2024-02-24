@@ -50,8 +50,3 @@
 </div>
 
 ###
-<div align="center">
-  <img height="200" src="https://imagetolink.com/ib/GgLouNlxWl"  />
-</div>
-
-###
